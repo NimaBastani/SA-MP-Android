@@ -1,3 +1,7 @@
+//Please don't remove credits
+//Credits : Nima Bastani
+//Github : https://github.com/NimaBastani/SA-MP-Android
+
 #include "main.h"
 #include "game/game.h"
 #include "net/netgame.h"
