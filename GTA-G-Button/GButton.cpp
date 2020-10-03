@@ -92,11 +92,3 @@ void CGButton::RenderButton()
 	ImGui::PopStyleColor(3);
 	ImGui::GetStyle().FrameBorderSize = style.FrameBorderSize;
 }
-
-
-void CGButton::LoadTextureButton()
-{
-	
-
-
-}
